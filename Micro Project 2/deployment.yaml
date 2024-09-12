@@ -14,7 +14,7 @@ spec:
     spec:
      containers:
      - name: microproyecto-2-compu-nube
-       image: darioparejadiaz/microproyecto-2-compu-nube:v1
+       image: andres1118/myapp:v4
        imagePullPolicy: Always
        ports:
        - containerPort: 8080
