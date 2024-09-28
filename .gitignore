@@ -4,6 +4,7 @@
 /Practice 4
 /Practice 5
 /Practice 6
+/Practice 9 - Azure Virtual Machines
 
 /Quiz 1
 /Slides
@@ -11,8 +12,10 @@
 .DS_Store
 
 /Micro project 1
+/Micro Project 2
 
 *.pdf
 *.jpeg
 *.jpg
 *.png
+*.doc

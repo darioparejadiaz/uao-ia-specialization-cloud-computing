@@ -1,0 +1,27 @@
+{
+    "Inputs": {
+      "WebServiceInput0": [
+        {
+          "date": "",
+          "price": 0,
+          "bedrooms": 3,
+          "bathrooms": 1.5,
+          "sqft_living": 1340,
+          "sqft_lot": 7912,
+          "floors": 1.5,
+          "waterfront": 0,
+          "view": 0,
+          "condition": 3,
+          "sqft_above": 1340,
+          "sqft_basement": 0,
+          "yr_built": 1955,
+          "yr_renovated": 2005,
+          "street": "",
+          "city": "Shoreline",
+          "statezip": "WA 98133",
+          "country": ""
+        }
+      ]
+    },
+    "GlobalParameters": {}
+  }
