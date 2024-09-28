@@ -1,6 +1,0 @@
-flask
-gluoncv
-matplotlib
-mxnet
-requests
-Pillow
